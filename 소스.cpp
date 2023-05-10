@@ -1,5 +1,5 @@
 //저작자: 신예원 202201901 컴퓨터공학부
-
+//새로운 원격 브랜치 bug
 #include <stdio.h>
 #include <string>
 #include <iostream>
